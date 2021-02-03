@@ -1,0 +1,26 @@
+i {
+    color: red;
+}
+.content{
+    display: none;
+
+    background-color: #f1f1f1;
+}
+.content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .content{
+    display: block;
+}
+.dropdown:hover .dropbtn{
+    background-color: #3e8e41;
+}
+.da{
+display: none;}
